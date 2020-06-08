@@ -1,1 +1,1 @@
-# 20daysofcode-day1
+# 20daysofcode
